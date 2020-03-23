@@ -1,0 +1,49 @@
+.formulaire {
+    background-color: #E1D2B8;
+    width: 60%;
+    margin: auto;
+    padding-top: 0;
+}
+
+.portrait {
+    padding-top: 1px;
+    margin: auto;
+    width: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+img {
+    border-radius: 50%;
+}
+
+input,
+label {
+    display: block;
+    width: 60%;
+    margin: auto;
+    padding: 1px;
+}
+
+input {
+    border: 2px solid whitesmoke;
+    border-radius: 4px;
+    height: 30px;
+    outline: grey;
+}
+
+form {
+    padding-bottom: 10px;
+}
+
+.bouton_envoi {
+    background-color: #4CAF50;
+    border-radius: 10px;
+    max-width: 80px;
+    box-shadow: 0px 8px 0px 0px #979998;
+    border-style: none;
+    color: white;
+    font: message-box;
+}
